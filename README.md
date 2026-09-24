@@ -1,0 +1,3 @@
+# OMICRON
+
+Initializing scaffold.
